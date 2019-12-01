@@ -3,13 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Some information about you!
-
+A Stoic from India , Bangalore.
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Loves to Create Something with a Computer.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[madhu.freestyle@gmail.com](mailto:madhu.freestyle@gmail.com)
